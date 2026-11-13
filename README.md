@@ -28,7 +28,7 @@ Para otro sketch, solo cambia la ruta. Podés tener todos los botones que quiera
 ### Desde CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/entorno3/sketch-dialog@1.0/sketch-dialog.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/entorno3/sketch-dialog@1.0.1/sketch-dialog.js"></script>
 ```
 
 ## Atributos del botón
