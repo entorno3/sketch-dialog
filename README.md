@@ -53,7 +53,7 @@ Si no puede detectar el tamaño, usa 800 × 450 por defecto.
 
 Creado en el marco de la materia *Programación para medios interactivos orientada a las tecnologías web* por el equipo docente, con asistencia de IA.
 
-## Licencia
+## Licencia:
 
 [MIT](https://opensource.org/license/mit): uso libre, incluso comercial, conservando el aviso de autoría y licencia. Se ofrece "tal cual", sin garantía. Ver el archivo [LICENSE](LICENSE).
 
