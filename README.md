@@ -55,7 +55,7 @@ Creado en el marco de la materia *Programación para medios interactivos orienta
 
 ## Licencia
 
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/): dedicación al dominio público. Uso libre, sin condiciones.
+[MIT](https://opensource.org/license/mit): uso libre, incluso comercial, conservando el aviso de autoría y licencia. Se ofrece "tal cual", sin garantía. Ver el archivo [LICENSE](LICENSE).
 
 ## Historial de cambios
 
