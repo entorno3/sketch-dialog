@@ -28,10 +28,8 @@ Para otro sketch, solo cambia la ruta. Podés tener todos los botones que quiera
 ### Desde CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/TU-USUARIO/sketch-dialog@1.0/sketch-dialog.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/entorno3/sketch-dialog@1.0/sketch-dialog.js"></script>
 ```
-
-Reemplazá `TU-USUARIO` por tu usuario de GitHub (requiere haber publicado el tag `v1.0`).
 
 ## Atributos del botón
 
