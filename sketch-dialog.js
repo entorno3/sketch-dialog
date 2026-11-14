@@ -1,5 +1,5 @@
 /*!
- * sketch-dialog.js  v1.0  (2026)
+ * sketch-dialog.js  v1.0.1 (2026)
  *
  * Abre cualquier página o sketch (p5.js, etc.) en un <dialog> con el iframe
  * escalado y centrado. Sin dependencias; usa el <dialog> nativo y,
